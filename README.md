@@ -20,3 +20,11 @@ Please follow the below instructions on how to submit your answers.
 Given the following dataset in `ClusterPlot.csv`, determine the number of clusters by using any clustering algorithm. **You're allowed to use any Python library you want to implement this**, just document which ones you used in this README file. Try to complete this as soon as possible.
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file.
+
+Answer
+
+DETERMINING THE OPTIMAL NUMBER OF CLUSTERS
+1. ELBOW METHOD
+The Elbow method is a heuristic method of interpretation and validation of consistency within-cluster analysis designed to help to find the appropriate number of clusters in a dataset.
+
+https://medium.com/@masarudheena/4-best-ways-to-find-optimal-number-of-clusters-for-clustering-with-python-code-706199fa957c
